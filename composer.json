@@ -1,13 +1,12 @@
 {
-    "name": "dyrynda/laravel-efficient-uuid",
+    "name": "foodticket/laravel-efficient-uuid",
     "type": "utility",
     "description": "A package to extend Laravel migrations adding a more efficient storage of UUID fields in your database",
     "license": "MIT",
     "authors": [
         {
-            "name": "Michael Dyrynda",
-            "email": "michael@dyrynda.com.au",
-            "homepage": "https://dyrynda.com.au"
+            "name": "Henrik Steffensen",
+            "email": "henrik@foodticket.nl",
         }
     ],
     "require": {
